@@ -1,4 +1,4 @@
-#  Demand Forecasting |Time Series | Machine Learning
+#  Demand Forecasting | Time Series | Machine Learning
 
 ##  Project Overview
 
